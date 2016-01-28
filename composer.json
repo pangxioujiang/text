@@ -1,0 +1,13 @@
+{
+    "name": "csshi",
+    "type": "library",
+    "description": "csshi",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.2.1"
+    },
+    "require-dev": {
+        "mockery/mockery": ">=0.7.2",
+        "phpunit/phpunit": "4.5.*"
+    }
+}
